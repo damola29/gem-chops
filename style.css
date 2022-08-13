@@ -24,7 +24,6 @@ div{
     padding: 20px;
     position: sticky;
     top: 0;
-
 }
 div ul{
     white-space: nowrap;
@@ -53,7 +52,6 @@ main{
     width: 1200px;
     margin: 80px auto;
     padding: 0 40px;
-    box-sizing: border-box;
 }
 article h2{
     color: #f63232;
@@ -127,4 +125,8 @@ div li a:hover{
         width: 100%;
         margin: 12px 0;
     }
+}
+
+*{
+    box-sizing: border-box;
 }
